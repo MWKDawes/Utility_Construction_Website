@@ -2,6 +2,8 @@
 
 ### For the final project of my Tech Academy course I was assigned to a Live Project assignment, composed of a 2 week sprint, centered around the tasks and designs asked for by a construction company.
 
+![Main Utility Construction Logo](https://github.com/MWKDawes/Utility_Construction_Website/raw/master/Images/Utility_Logo_Final.png "Main Logo Used for Utility Construction Site")
+
 ##### Over the course of two weeks I was asked to design multiple webpages and logos for a construction website, consisting of a story for each design. The Live Project asked for me to complete 4 stories for the duration of the sprint, I ended up doing 8. So, to not overwhelm, I will upload snippit images of the projects to this summary, as it will still succeed in showing off the design.
 
 ## Logo/Headpage
@@ -16,4 +18,4 @@
 
 ## Construction Page
 
-##### The Construction page I had included when designing the homepage as a section, however this design was for a full webpage. I figured since this would be a page actively clicked to it could drop the sleeker "snap-to" design and just be a smooth scrolling page. Both the homepage and Construction page include a CTA to send a message, displayed below. The Construction page contains, along with a "Featured Project", multiple completed projects, which reformat from containing two projects on one row to one project on one row, depending on screen size.
+##### The Construction page I had included when designing the homepage was a section, however this design was for a full webpage. I figured since this would be a page actively clicked into, it could drop the sleeker "snap-to" design and just be a smooth scrolling page. Both the homepage and Construction page include a CTA to send a message, displayed below. The Construction page contains, along with a "Featured Project", multiple completed projects, which reformat from containing two projects on one row to one project on one row, depending on screen size.
