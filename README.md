@@ -41,7 +41,7 @@ The Construction page contains, along with a "Featured Project", multiple comple
 ![GalleryWeb](https://github.com/MWKDawes/Utility_Construction_Website/assets/152348123/f424d747-333f-439b-92c0-1bb5b3f3122f)
 ![GalleryMobile](https://github.com/MWKDawes/Utility_Construction_Website/assets/152348123/49acba54-1600-4a27-8045-8fe0de1d0b53)
 
-#Skills Learned
+# Skills Learned
 
 * Cooperation with a team to achieve an ultimate goal
 * Solidified some Photoshop skills and enhanced others
