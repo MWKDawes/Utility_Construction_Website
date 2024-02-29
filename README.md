@@ -1,4 +1,4 @@
-# Utility Construction Website Summary
+# Utility Construction Website Summary 
 
 ### For the final project of my Tech Academy course I was assigned to a Live Project, composed of a 2 week sprint with daily standups and summaries, centered around the tasks and designs asked for by a construction company client.
 
